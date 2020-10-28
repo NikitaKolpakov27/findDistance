@@ -1,0 +1,8 @@
+C:\Users\HP\RiderProjects\Task12_1\Task\bin\Debug\Task.exe
+C:\Users\HP\RiderProjects\Task12_1\Task\bin\Debug\Task.pdb
+C:\Users\HP\RiderProjects\Task12_1\Task\bin\Debug\Logic.dll
+C:\Users\HP\RiderProjects\Task12_1\Task\bin\Debug\Logic.pdb
+C:\Users\HP\RiderProjects\Task12_1\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\HP\RiderProjects\Task12_1\Task\obj\Debug\Task.csproj.CopyComplete
+C:\Users\HP\RiderProjects\Task12_1\Task\obj\Debug\Task.exe
+C:\Users\HP\RiderProjects\Task12_1\Task\obj\Debug\Task.pdb
